@@ -20,7 +20,7 @@ sobre la cantidad de dosis que fueron aplicadas en las 24 jurisdicciones de la R
 
 ## 3. Usabilidad
 
-Esta aplicación web fue creada para que los usuarios interesados puedan observar e interactudar con dos tipos de gráficos, uno de barras, que expresa cuàntas personas fueron vacunadas con la primera y segunda dosis, y otro de tipo circular, que expresa el procentaje de vacunados. 
+Esta aplicación web fue creada para que los usuarios interesados puedan observar e interactuar con dos tipos de gráficos, uno de barras, que expresa cuántas personas fueron vacunadas con la primera y segunda dosis, y otro de tipo circular, que expresa el procentaje de vacunados. 
 
 ### Gráfico de barras - Primera dosis
 
