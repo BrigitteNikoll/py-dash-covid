@@ -4,9 +4,9 @@
 
 * [1. Resumen de proyecto](#1-Resumen-de-proyecto)
 * [2. Tecnologías usadas](#2-Tecnologías-usadas)
-* [3. Usabilidad](#3-usabilidad)
+* [3. Usabilidad](#3-Usabilidad)
 * [4. Prototipo final](#4-Prototipo-final)
-* [5. Fuentes consultadas](#4-Fuentes-consultadas)
+* [5. Fuentes consultadas](#5-Fuentes-consultadas)
 
 
 ## 1. Resumen de proyecto
