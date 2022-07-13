@@ -3,7 +3,7 @@
  ## Índice
 
 * [1. Resumen de proyecto](#1-Resumen-de-proyecto)
-* [2. Tecnologías usadas](#2-Investigación-del-público-objetivo)
+* [2. Tecnologías usadas](#2-Tecnologías-usadas)
 * [3. Usabilidad](#3-Test-de-usabilidad)
 * [4. Prototipo final](#4-Prototipo-final)
 * [5. Fuentes consultadas](#4-Fuentes-consultadas)
