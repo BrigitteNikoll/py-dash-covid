@@ -4,7 +4,7 @@
 
 * [1. Resumen de proyecto](#1-Resumen-de-proyecto)
 * [2. Tecnologías usadas](#2-Tecnologías-usadas)
-* [3. Usabilidad](#3-Test-de-usabilidad)
+* [3. Usabilidad](#3-usabilidad)
 * [4. Prototipo final](#4-Prototipo-final)
 * [5. Fuentes consultadas](#4-Fuentes-consultadas)
 
@@ -46,6 +46,6 @@ Esta aplicación web fue creada para que los usuarios interesados puedan observa
 ![prototipo](https://user-images.githubusercontent.com/68497100/178824052-1f81ef51-8eea-430d-971c-991b37e5763f.png)
 
 ## 5. Fuentes consultadas
-Esta información fue extraída del portal del Ministerio de Salud - Dirección de Control de Enfermedades Inmunoprevenibles.
+Esta información fue extraída en formato CSV del portal del Ministerio de Salud - Dirección de Control de Enfermedades Inmunoprevenibles.
 
 http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina/archivo/b4684dd9-3cb7-45f7-9c0e-086550013e22
