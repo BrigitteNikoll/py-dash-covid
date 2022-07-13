@@ -19,6 +19,7 @@ sobre la cantidad de dosis que fueron aplicadas en las 24 jurisdicciones de la R
 - Dash
 - Plotly
 - Pandas
+- Tailwindcss
 
 ## 3. Usabilidad
 
