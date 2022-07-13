@@ -10,7 +10,7 @@
 
 
 ## 1. Resumen de proyecto
-Este dashboard fue construido con la finalidad de poder visualizar estadísticamente la distribución de los datos obtenidos hasta el primer semestre el año 2022
+Este dashboard, adaptable a distintos dispositivos, fue construido con la finalidad de poder visualizar estadísticamente la distribución de los datos obtenidos hasta el primer semestre el año 2022
 sobre la cantidad de dosis que fueron aplicadas en las 24 jurisdicciones de la República Argentina.
 
 ## 2. Tecnologías usadas
